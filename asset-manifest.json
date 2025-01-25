@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/anishv02/confidential.git/static/css/main.51f6675a.css",
-    "main.js": "/anishv02/confidential.git/static/js/main.3e26fa68.js",
-    "static/media/Image.jpg": "/anishv02/confidential.git/static/media/Image.6e3cad63a097b654b996.jpg",
-    "index.html": "/anishv02/confidential.git/index.html",
-    "main.51f6675a.css.map": "/anishv02/confidential.git/static/css/main.51f6675a.css.map",
-    "main.3e26fa68.js.map": "/anishv02/confidential.git/static/js/main.3e26fa68.js.map"
+    "main.css": "/confidential/static/css/main.51f6675a.css",
+    "main.js": "/confidential/static/js/main.e0d38312.js",
+    "static/media/Image.jpg": "/confidential/static/media/Image.6e3cad63a097b654b996.jpg",
+    "index.html": "/confidential/index.html",
+    "main.51f6675a.css.map": "/confidential/static/css/main.51f6675a.css.map",
+    "main.e0d38312.js.map": "/confidential/static/js/main.e0d38312.js.map"
   },
   "entrypoints": [
     "static/css/main.51f6675a.css",
-    "static/js/main.3e26fa68.js"
+    "static/js/main.e0d38312.js"
   ]
 }
